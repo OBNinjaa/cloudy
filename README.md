@@ -6,7 +6,6 @@
     │   ├───fun
     │   ├───information
     │   ├───moderation
-    │   ├───music
     │   └───utilities
     ├───inhibitors
     └───listeners
