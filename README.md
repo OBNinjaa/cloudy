@@ -1,4 +1,10 @@
 ![Cloudy Discord Bot](https://imgur.com/04btrZO.png)
+
+## Links
+[DISCORD](https://dsc.gg/wolkig)
+#
+![Discord Shield](https://discordapp.com/api/guilds/883397209306038272/widget.png?style=banner2)
+
 ```
 └───src
     ├───commands
@@ -13,5 +19,3 @@
         ├───debug
         └───events
 ```
-* Join the [Discord](https://discord.gg/Nyj4p5u95N)
-* Username: OBNinjaa#0001
